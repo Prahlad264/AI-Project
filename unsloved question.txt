@@ -1,0 +1,33 @@
+Hashing:-
+
+1.Sorting Elements of an Array by Frequency
+2.Zero Sum Subarrays
+3.Positive Negative Pair:-optimization problem
+4.Subarray range with given sum
+5.Numbers containing 1, 2 and 3.
+6.Hashing for pair - 1.
+7.Intersection of two arrays
+8.First Repeating Element
+9.Print Non-Repeated Elements
+10.Quadratic Probing in Hashing
+11.Linear Probing in Hashing
+
+STIRNG-----
+1.Check if string is rotated by two places
+
+LINKLIST=======
+1.LRU Cache
+2.Intersection Point in Y Shapped Linked Lists;--Optimaization problem
+3.Merge K sorted linked lists:===optiztion problem
+4.Merge Sort on Doubly Linked List
+5.Add two numbers represented by linked lists:-run time error
+6.Remove loop in Linked List
+Queue:---
+1.Maximum of all subarrays of size k
+2.Generate Binary Numbers
+3.Queue using two Stacks
+4.Operations on Queue
+TRee-------------------------
+1.ZigZag Tree Traversal
+2.Node at distance
+3.Inorder Traversal
